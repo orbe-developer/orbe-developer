@@ -8,12 +8,23 @@ A decade building systems that handle things that matter — border security, in
 
 ### Stack
 
+[![Skills](https://skillicons.dev/icons?i=python,java,django,fastapi,spring,kafka,docker,postgres,mysql,aws,redis,git)](https://skillicons.dev)
+
 **Python** — Django · Django REST Framework · FastAPI · Celery · Redis · Odoo · pandas  
 **Java** — Spring Boot · Spring Cloud · J2EE · Hibernate/JPA · JUnit  
 **Databases** — PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · DynamoDB  
 **Cloud & DevOps** — AWS · Docker · GitHub Actions · CI/CD  
 **Distributed systems** — Kafka · JMS · async processing · event-driven architecture  
 **Industrial / SCADA** — Ignition · OPC UA · IIoT
+
+---
+
+### Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=orbe-developer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbe-developer&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
 
 ---
 

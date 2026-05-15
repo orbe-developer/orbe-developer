@@ -1,4 +1,4 @@
-# Orbehin Sarmiento Barzaga
+# Orbehin Sarmiento
 
 **Senior Backend Engineer** · London, UK
 

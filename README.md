@@ -32,7 +32,7 @@ A decade building systems that handle things that matter — border security, in
 
 - **[sales-system-microservices](https://github.com/orbe-developer/sales-system-microservices)** — Sales platform built on microservices: Spring Boot, Spring Cloud, Kafka, Keycloak, Resilience4j, Zipkin, Prometheus, Grafana. Deployed with Docker.
 
-- **[portfolio-editorial](https://github.com/orbe-developer/portfolio-editorial)** — Personal portfolio site. Vanilla HTML/CSS/JS, editorial design. Live at [orbe-developer.github.io/portfolio-editorial](https://orbe-developer.github.io/portfolio-editorial/).
+- **[ProgImage](https://github.com/orbe-developer/ProgImage)** — REST API for image storage and transformation: FastAPI, PostgreSQL, Pillow. Supports compression, rotation, filtering, and masking operations.
 
 ---
 

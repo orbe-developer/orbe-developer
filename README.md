@@ -8,6 +8,8 @@ Over the past decade I've built systems in sectors where software genuinely matt
 
 ### Stack
 
+[![Skills](https://skillicons.dev/icons?i=python,java,django,fastapi,spring,kafka,docker,postgres,mysql,aws,redis,git)](https://skillicons.dev)
+
 **Python** — Django · Django REST Framework · FastAPI · Celery · Redis · Odoo · pandas  
 **Java** — Spring Boot · Spring Cloud · J2EE · Hibernate/JPA · JUnit  
 **Databases** — PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · DynamoDB  

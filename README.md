@@ -27,6 +27,10 @@ A decade building systems that handle things that matter — border security, in
 
 - **[python-grpc-greeter](https://github.com/orbe-developer/python-grpc-greeter)** — All four gRPC communication patterns in Python: unary, server streaming, client streaming, and bidirectional.
 
+- **[food-order-app-backend](https://github.com/orbe-developer/food-order-app-backend)** — REST API for a food ordering platform: Express.js, MongoDB, JWT authentication, bcrypt password hashing, Mocha/Chai integration tests.
+
+- **[food-order-app-client](https://github.com/orbe-developer/food-order-app-client)** — React frontend for the same platform: Redux Toolkit (createSlice, createAsyncThunk), React Router v6, React Bootstrap.
+
 ---
 
 ### Recognition

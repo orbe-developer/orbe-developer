@@ -19,20 +19,13 @@ A decade building systems that handle things that matter — border security, in
 
 ---
 
-### Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=orbe-developer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbe-developer&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### Projects
 
 - **[sales-system-microservices](https://github.com/orbe-developer/sales-system-microservices)** — Sales platform built on microservices: Spring Boot, Spring Cloud, Kafka, Keycloak, Resilience4j, Zipkin, Prometheus, Grafana. Deployed with Docker.
 
 - **[ProgImage](https://github.com/orbe-developer/ProgImage)** — REST API for image storage and transformation: FastAPI, PostgreSQL, Pillow. Supports compression, rotation, filtering, and masking operations.
+
+- **[python-grpc-greeter](https://github.com/orbe-developer/python-grpc-greeter)** — All four gRPC communication patterns in Python: unary, server streaming, client streaming, and bidirectional.
 
 ---
 

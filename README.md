@@ -10,8 +10,8 @@ A decade building systems that handle things that matter — border security, in
 
 [![Skills](https://skillicons.dev/icons?i=python,java,django,fastapi,spring,kafka,docker,postgres,mysql,aws,redis,git)](https://skillicons.dev)
 
-**Python** — Django · Django REST Framework · FastAPI · Celery · Redis · Odoo · pandas  
-**Java** — Spring Boot · Spring Cloud · J2EE · Hibernate/JPA · JUnit  
+**Python** — Django · Django REST Framework · FastAPI · Celery · Redis · Odoo · pandas · unittest  
+**Java** — Spring Boot · Spring Cloud · Java EE · Hibernate/JPA · JUnit · Mockito  
 **Databases** — PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · DynamoDB  
 **Cloud & DevOps** — AWS · Docker · GitHub Actions · CI/CD  
 **Distributed systems** — Kafka · JMS · async processing · event-driven architecture  
